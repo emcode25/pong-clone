@@ -1,0 +1,4 @@
+﻿  paddle.cpp
+C:\Users\Evan\source\repos\Pong\Pong\paddle.cpp(30,40): warning C4458: declaration of 'r' hides class member
+C:\Users\Evan\source\repos\Pong\Pong\paddle.h(21,17): message : see declaration of 'Paddle::r'
+  Pong.vcxproj -> C:\Users\Evan\source\repos\Pong\x64\Debug\Pong.exe
