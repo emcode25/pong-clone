@@ -244,7 +244,7 @@ void loop(SDL_Event* e)
 	int hitCode = 0;
 
 	count1.setNum(0);
-	count1.setNum(0);
+	count2.setNum(0);
 
 	while(true)
 	{
